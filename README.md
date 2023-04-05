@@ -69,3 +69,18 @@ This final chapter teaches you how to sort and group data. These skills will tak
 [Sorting Results](https://iqraanwar.medium.com/6-sorting-results-a0e8c773719b)
 
 
+# 03- Joining Data In SQL
+Joining data is an essential skill which enables us to draw information from separate tables together into a single, meaningful set of results. Learn to supercharge your queries using table joins and relational set theory in this course on joining data.
+
+## 1/4 Introducing Inner Joins
+
+In this chapter, you’ll be introduced to the concept of joining tables and will explore all the ways you can enrich your queries using joins—beginning with inner joins. 
+
+## BLOG: 
+[The ins and outs of INNER JOIN](https://medium.com/@iqraanwar/07-joining-data-in-sql-1fd668e3dc8f)
+
+## 2/4 Outer Joins, Cross Joins and Self Joins
+After familiarizing yourself with inner joins, you will come to grips with different kinds of outer joins. Next, you will learn about cross joins. Finally, you will learn about situations in which you might join a table with itself.
+
+## BLOG:
+[Outer Joins, Cross Joins and Self Joins](https://medium.com/@iqraanwar/08-outer-joins-cross-joins-and-self-joins-790926108c08)
