@@ -84,3 +84,9 @@ After familiarizing yourself with inner joins, you will come to grips with diffe
 
 ## BLOG:
 [Outer Joins, Cross Joins and Self Joins](https://medium.com/@iqraanwar/08-outer-joins-cross-joins-and-self-joins-790926108c08)
+
+## 3/4 Set Theory for SQL Joins
+In this chapter, you will learn about using set theory operations in SQL, with an introduction to UNION, UNION ALL, INTERSECT, and EXCEPT clauses. You’ll explore the predominant ways in which set theory operations differ from join operations.
+
+## BLOG: 
+[Set Theory for SQL Joins](https://iqraanwar.medium.com/09-set-theory-for-sql-joins-ac199f4aa335)
