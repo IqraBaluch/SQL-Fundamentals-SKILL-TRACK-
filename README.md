@@ -90,3 +90,12 @@ In this chapter, you will learn about using set theory operations in SQL, with a
 
 ## BLOG: 
 [Set Theory for SQL Joins](https://iqraanwar.medium.com/09-set-theory-for-sql-joins-ac199f4aa335)
+
+
+## 4/4 Subqueries
+
+In this closing chapter, you’ll begin by investigating semi-joins and anti-joins. Next, you'll learn how to use nested queries. Last but not least, you’ll wrap up the course with some challenges!
+
+## BLOG:
+[Subqueries](https://medium.com/@iqraanwar/10-subqueries-aa0f8310ce38)
+
